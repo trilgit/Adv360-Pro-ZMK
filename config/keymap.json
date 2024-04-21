@@ -35,11 +35,11 @@
         "&none",        "&none",        "&none",        "&none",   "&macro_ver",        "&none",                                     "&none",                          "&none",                                          "&none",      "&none",      "&none",  "&none",  "&none",  "&none",
         "&none",        "&none",        "&none",        "&none",        "&none",                                 "&none",  "&none",  "&none",                          "&none", "&bl BL_TOG",        "&rgb_ug RGB_TOG",           "&bl BL_INC", "&bl BL_DEC",  "&none",  "&none",  "&none"
     ], [
-       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans",                                                             "&trans",    "&trans",               "&trans",                "&trans",        "&trans",           "&trans",    "&trans",
-       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans",                                                             "&trans",    "&trans",               "&trans",                "&trans",        "&trans",           "&trans",    "&trans",
-       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans",    "&trans", "&kp LEFT_PARENTHESIS", "&kp RIGHT_PARENTHESIS",  "&kp QUESTION",         "&kp PIPE",    "&trans",
-       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",                               "&trans",                     "&trans",                     "&kp GRAVE",       "&kp LEFT_BRACE",       "&kp RIGHT_BRACE",     "&kp SLASH",    "&kp BACKSLASH", "&kp EQUAL",
-       "&trans", "&trans", "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans",                  "&kp LEFT_BRACKET",     "&kp RIGHT_BRACKET", "&kp LESS_THAN", "&kp GREATER_THAN",    "&trans"
+       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans",                                                             "&trans",    "&trans",               "&trans",                "&trans",           "&trans",            "&trans",    "&trans",
+       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans",                                                             "&trans",    "&trans",               "&trans",                "&trans",           "&trans",            "&trans",    "&trans",
+       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans",    "&trans", "&kp LEFT_PARENTHESIS", "&kp RIGHT_PARENTHESIS",     "&kp QUESTION",          "&kp PIPE",    "&trans",
+       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",                               "&trans",                     "&trans",                     "&kp GRAVE",        "&kp LESS_THAN",      "&kp GREATER_THAN",        "&kp SLASH",     "&kp BACKSLASH", "&kp EQUAL",
+       "&trans", "&trans", "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans",                    "&kp LEFT_BRACE",       "&kp RIGHT_BRACE", "&kp LEFT_BRACKET", "&kp RIGHT_BRACKET",    "&trans"
     ]
   ]
 }
